@@ -1,0 +1,7 @@
+.*.swp
+green_ssl.egg-info/*
+MANIFEST.in
+build/*
+docs/build/*
+dist/*
+html/*
