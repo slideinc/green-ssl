@@ -12,6 +12,8 @@ setup(
     description="socket.ssl monkeypatching that cooperates in gogreen",
     version="1.0",
     license="bsd",
+    author="Libor Michalek",
+    author_email="libor@pobox.com",
     ext_modules=[Extension(
         'green_ssl',
         ['green_ssl_module.c'],
