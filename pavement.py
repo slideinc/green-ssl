@@ -37,6 +37,7 @@ MANIFEST = (
     "setup.py",
     "paver-minilib.zip",
     "green_ssl_module.c",
+    "socketmodule.h",
 )
 
 @task
